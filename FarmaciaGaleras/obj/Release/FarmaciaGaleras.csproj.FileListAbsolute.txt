@@ -1,0 +1,79 @@
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.csprojAssemblyReference.cache
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Domicilios.resources
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Entrega.resources
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Farmacia.resources
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Inventario.resources
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.MDIFarmacia.resources
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Properties.Resources.resources
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.QuejasSugerencias.resources
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.csproj.GenerateResource.cache
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.csproj.CoreCompileInputs.cache
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\bin\Release\FarmaciaGaleras.exe.config
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\bin\Release\FarmaciaGaleras.exe
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\bin\Release\FarmaciaGaleras.pdb
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.exe
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.pdb
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Domicilios.resources
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Entrega.resources
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Farmacia.resources
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Inventario.resources
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.MDIFarmacia.resources
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Properties.Resources.resources
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.QuejasSugerencias.resources
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.exe
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.pdb
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\bin\Release\FarmaciaGaleras.exe.config
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\bin\Release\FarmaciaGaleras.exe
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\bin\Release\FarmaciaGaleras.pdb
+C:\Users\USUARIO\Documents\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Factura.resources
+Z:\FarmaciaGaleras\FarmaciaGaleras\bin\Release\FarmaciaGaleras.exe.config
+Z:\FarmaciaGaleras\FarmaciaGaleras\bin\Release\FarmaciaGaleras.exe
+Z:\FarmaciaGaleras\FarmaciaGaleras\bin\Release\FarmaciaGaleras.pdb
+Z:\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.csprojAssemblyReference.cache
+Z:\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Domicilios.resources
+Z:\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Entrega.resources
+Z:\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Factura.resources
+Z:\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Farmacia.resources
+Z:\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Inventario.resources
+Z:\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.MDIFarmacia.resources
+Z:\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Properties.Resources.resources
+Z:\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.QuejasSugerencias.resources
+Z:\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.csproj.GenerateResource.cache
+Z:\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.csproj.CoreCompileInputs.cache
+Z:\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.exe
+Z:\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.pdb
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\bin\Release\FarmaciaGaleras.exe.config
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\bin\Release\FarmaciaGaleras.exe
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\bin\Release\FarmaciaGaleras.pdb
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Domicilios.resources
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Entrega.resources
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Factura.resources
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Farmacia.resources
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Inventario.resources
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.MDIFarmacia.resources
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.QuejasSugerencias.resources
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.exe
+C:\Users\USUARIO\Desktop\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.pdb
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\bin\Release\FarmaciaGaleras.exe.config
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\bin\Release\FarmaciaGaleras.exe
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\bin\Release\FarmaciaGaleras.pdb
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.csprojAssemblyReference.cache
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Domicilios.resources
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Entrega.resources
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Factura.resources
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Farmacia.resources
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Inventario.resources
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.MDIFarmacia.resources
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.Properties.Resources.resources
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.QuejasSugerencias.resources
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.csproj.GenerateResource.cache
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.csproj.CoreCompileInputs.cache
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.exe
+E:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Release\FarmaciaGaleras.pdb

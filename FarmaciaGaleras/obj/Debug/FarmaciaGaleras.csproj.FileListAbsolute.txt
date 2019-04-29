@@ -1,0 +1,84 @@
+c:\users\estudiante\documents\visual studio 2013\Projects\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.exe.config
+C:\Users\Estudiante\documents\visual studio 2013\Projects\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\documents\visual studio 2013\Projects\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Form1.resources
+C:\Users\Estudiante\documents\visual studio 2013\Projects\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.PaginaPrincipal.resources
+C:\Users\Estudiante\documents\visual studio 2013\Projects\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Properties.Resources.resources
+C:\Users\Estudiante\documents\visual studio 2013\Projects\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.csproj.GenerateResource.Cache
+C:\Users\Estudiante\documents\visual studio 2013\Projects\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.exe
+C:\Users\Estudiante\documents\visual studio 2013\Projects\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.pdb
+C:\Users\Estudiante\documents\visual studio 2013\Projects\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.exe
+C:\Users\Estudiante\documents\visual studio 2013\Projects\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.pdb
+F:\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.exe.config
+F:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.exe
+F:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.pdb
+F:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.csprojResolveAssemblyReference.cache
+F:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Farmacia.resources
+F:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.MDIFarmacia.resources
+F:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Properties.Resources.resources
+F:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.csproj.GenerateResource.Cache
+E:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.csprojAssemblyReference.cache
+E:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Farmacia.resources
+E:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.MDIFarmacia.resources
+E:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Properties.Resources.resources
+E:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.csproj.GenerateResource.cache
+E:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.csproj.CoreCompileInputs.cache
+E:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.exe
+E:\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.exe.config
+E:\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.exe
+E:\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.pdb
+E:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.pdb
+E:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Inventario.resources
+E:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Domicilios.resources
+E:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.QuejasSugerencias.resources
+F:\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.exe
+F:\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.pdb
+F:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Domicilios.resources
+F:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Inventario.resources
+F:\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.QuejasSugerencias.resources
+F:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.exe.config
+F:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.exe
+F:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.pdb
+F:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.csprojResolveAssemblyReference.cache
+F:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Domicilios.resources
+F:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Farmacia.resources
+F:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Inventario.resources
+F:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.MDIFarmacia.resources
+F:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Properties.Resources.resources
+F:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.QuejasSugerencias.resources
+F:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.csproj.GenerateResource.Cache
+F:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.exe
+F:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.pdb
+F:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Entrega.resources
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.exe.config
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.exe
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.pdb
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.csprojAssemblyReference.cache
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Domicilios.resources
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Entrega.resources
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Farmacia.resources
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Inventario.resources
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.MDIFarmacia.resources
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Properties.Resources.resources
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.QuejasSugerencias.resources
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.csproj.GenerateResource.cache
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.csproj.CoreCompileInputs.cache
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.exe
+E:\5 SEMESTRE\Software 2\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.pdb
+F:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.exe.config
+F:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.exe
+F:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.pdb
+F:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.exe
+F:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.pdb
+F:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.csprojResolveAssemblyReference.cache
+F:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Domicilios.resources
+F:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Entrega.resources
+F:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Factura.resources
+F:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Farmacia.resources
+F:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Inventario.resources
+F:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.MDIFarmacia.resources
+F:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.Properties.Resources.resources
+F:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.QuejasSugerencias.resources
+F:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.csproj.GenerateResource.Cache
+G:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\bin\Debug\FarmaciaGaleras.exe.config
+G:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.exe
+G:\5 SEMESTRE\FarmaciaGaleras\FarmaciaGaleras\obj\Debug\FarmaciaGaleras.pdb
